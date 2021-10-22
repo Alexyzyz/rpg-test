@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="RPGtest"
-config/icon="res://icon.png"
+config/icon="res://sprites/icon.png"
 
 [physics]
 
